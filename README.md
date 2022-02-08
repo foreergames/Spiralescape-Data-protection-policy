@@ -1,5 +1,5 @@
 # Hexagonescape-Data-protection-policy
-Welcome to the Hexagone app for Android!
+Welcome to the Hexagonescape app for Android!
 
 This is an open source Android app developed by Ömer Özkul. The app is available on Google Play.
 
